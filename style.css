@@ -20,6 +20,7 @@ body{
     position: sticky;
     top: 0;
     background-color: white;
+    z-index: 1;
 }
 .navbar__s1__title{
     color: blueviolet;
